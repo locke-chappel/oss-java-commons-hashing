@@ -12,7 +12,7 @@
     <version>1.0.10</version>
     <name>${project.artifactId}</name>
     <description>A simple utility library implementing common hasing functions</description>
-    <url>https://github.com/locke-chappel/oss-commons-hashing</url>
+    <url>https://github.com/locke-chappel/oss-java-commons-hashing</url>
 
     <licenses>
         <license>
